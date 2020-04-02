@@ -1,0 +1,27 @@
+{
+  "name": "new-horizons-checklist",
+  "version": "1.0.0",
+  "description": "Critter checklist",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha ./*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdinius/new-horizons-checklist.git"
+  },
+  "keywords": [
+    "animal",
+    "crossing",
+    "new",
+    "horizons",
+    "checklist",
+    "critters"
+  ],
+  "author": "Phil Dinius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdinius/new-horizons-checklist/issues"
+  },
+  "homepage": "https://github.com/pdinius/new-horizons-checklist#readme"
+}
